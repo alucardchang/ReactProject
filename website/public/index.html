@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
+    <meta name="referrer" content="no-referrer" />
+    <title>CoolFun</title>
+</head>
+<body>
+<script>
+    (function () {
+        function computed() {
+            let HTML = document.documentElement,
+                //设备宽度
+                winW = HTML.clientWidth,
+                //设计稿宽度
+                desW = 750;
+            if (winW >= desW) {
+                HTML.style.fontSize = '100px';
+                return;
+            }
+            HTML.style.fontSize = winW / desW * 100 + 'px';
+        }
+
+        computed();
+        window.addEventListener('resize', computed, false);
+    })();
+</script>
+<div id="root"></div>
+</body>
+</html>

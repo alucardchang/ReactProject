@@ -1,0 +1,218 @@
+/*首页*/
+.homeBox {
+  position: relative;
+  background: #f9f9f9;
+
+  /*轮播图区域*/
+  .bannerBox {
+    position: relative;
+
+    /*页卡样式*/
+    .ant-carousel .slick-slide {
+      position: relative;
+      //margin-bottom:3.4rem;
+      text-align: center;
+      height: 4rem;
+      width: 100%;
+      //line-height: 2rem;
+      background: #364d79;
+      overflow: hidden;
+
+      /*页卡标题*/
+      .titleBar {
+        position: absolute;
+        bottom: 0rem;
+        width: 100%;
+        color: #FFF;
+        background: rgba(10, 10, 10, 0.4);
+      }
+    }
+
+    /*焦点*/
+    .ant-carousel .slick-slider .slick-dots {
+      position: absolute;
+      bottom: 0.5rem;
+    }
+
+    img {
+      width: 100%;
+      height: 4rem;
+    }
+
+  }
+
+  /*专家评测区*/
+  .evalBox {
+    position: relative;
+    margin-top: 0.5rem;
+    width: 100%;
+    height: 4.5rem;
+    background: white;
+
+    /*标签卡*/
+    .tag {
+      //border-radius:.5rem;
+      border-radius: 0 .25rem .25rem 0;
+      position: absolute;
+      top: -0.25rem;
+      background: linear-gradient(top, #74c8ff, #256dff);
+      width: 1.8rem;
+      height: .5rem;
+      line-height: .5rem;
+      font-size: .28rem;
+      color: #fff;
+      text-align: center;
+    }
+
+    display: flex;
+    flex-wrap: wrap;
+
+    /*图片卡*/
+    .picBox {
+      height: 49.5%;
+      background-size: auto 100% !important;
+    }
+    .picA {
+      width: 70%;
+      margin-right: 0.5%;
+      background: url('../../static/images/eval1.png') center center no-repeat;
+    }
+    .picB {
+      width: 29.5%;
+      background: url('../../static/images/eval2.jpg') center center no-repeat;
+    }
+    .picSub {
+      width: 33%;
+      margin: 0.5% 0.5% 0 0;
+    }
+    .picC {
+      background: url('../../static/images/eval3.jpg') center center no-repeat;
+    }
+    .picD {
+      background: url('../../static/images/eval4.jpg') center center no-repeat;
+    }
+    .picE {
+      background: url('../../static/images/eval5.jpg') center center no-repeat;
+      margin-right: 0%;
+    }
+  }
+
+  /*科技视频*/
+  .videoBox {
+    position: relative;
+    margin-top: 0.5rem;
+    width: 100%;
+    height: 4.5rem;
+    background: white;
+
+    /*标签卡*/
+    .tag {
+      //border-radius:.5rem;
+      border-radius: 0 .25rem .25rem 0;
+      position: absolute;
+      top: -0.25rem;
+      background: linear-gradient(top, #ffce07, orange);
+      width: 1.8rem;
+      height: .5rem;
+      line-height: .5rem;
+      font-size: .28rem;
+      color: #fff;
+      text-align: center;
+    }
+    /*视频页卡容器*/
+    .container {
+      padding: 0.4rem 0.2rem 0.4rem 0.2rem;
+      overflow-x: scroll;
+      white-space: nowrap;
+      /*页卡*/
+      .vidCard {
+        position: relative;
+        margin-right: 0.2rem;
+        display: inline-block;
+        width: 48.5%;
+        height: 3.7rem;
+        border: 0.01rem solid #f2f2f2;
+        &:nth-last-of-type(1) {
+          margin-right: 0rem;
+        }
+        video {
+          width: 100%;
+          height: 2.5rem;
+        }
+
+        .videoTitle {
+          text-indent: 0.2rem;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+        .date {
+          position: absolute;
+          right: 0.2rem;
+          bottom: 0.15rem;
+          font-size: 0.15rem;
+          color: darkgrey;
+        }
+
+      }
+    }
+
+  }
+
+  /*推荐产品*/
+  .recomProdBox {
+    position: relative;
+    .ant-card {
+      position: relative;
+      margin: 0 auto .1rem auto;
+      width: 96%;
+
+      .ant-card-body {
+        padding: 0.24rem 0.2rem;
+        /*产品图片*/
+        .prodImg {
+          position: relative;
+          display: inline-block;
+          width: 55%;
+          height: 2.5rem;
+          background: #0f0f0f;
+          img{
+            width: 100%;
+            height: 100%;
+          }
+        }
+
+        /*产品信息*/
+        .prodInfo {
+          position: relative;
+          float: right;
+          width: 42%;
+          height: 2.5rem;
+          /*标题*/
+          p{
+
+          }
+          /*评分*/
+          .ant-rate{
+            position: absolute;
+            top:1.1rem;
+            right: 0;
+          }
+          /*价格*/
+          span {
+            position: absolute;
+            bottom: 0.3rem;
+            left:0.2rem;
+            font-size: 0.35rem;
+            font-weight: bold;
+            color: red;
+          }
+
+        }
+
+      }
+
+    }
+  }
+
+}

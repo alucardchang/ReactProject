@@ -1,0 +1,183 @@
+.productListBox {
+  position: relative;
+  /*产品列表页*/
+  .showContainer {
+    position: relative;
+    /*列表*/
+    .showList {
+      position: relative;
+      width: 97%;
+      margin: 0 auto;
+
+      li {
+        border-bottom: 1px solid gainsboro;
+        padding-top: 0.2rem;
+        .itemContainer {
+          display: flex;
+
+          /*商品图片*/
+          .pic {
+            width: 2.2rem;
+            height: 1.4rem;
+            background: #EEE;
+            img {
+              width: 100%;
+              height: 100%;
+            }
+          }
+          /*标题和描述*/
+          .desc {
+            flex: 1;
+            padding-left: .2rem;
+            overflow: hidden;
+            p:first-child {
+              width: 95%;
+              word-wrap: break-word;
+              font-size: 0.3rem;
+              color: black;
+              height: .8rem;
+              line-height: .4rem;
+              overflow: hidden;
+            }
+            p:last-child {
+              width: 90%;
+              color: #999;
+              font-size: 0.2rem;
+              white-space: nowrap;
+              text-overflow: ellipsis;
+              overflow: hidden;
+              margin-bottom: 0.15rem;
+            }
+          }
+          /*价格*/
+          .price {
+            margin-right: 0.1rem;
+            color: red;
+            font-size: 0.35rem;
+          }
+        }
+
+      }
+    }
+
+    /*加载更多按钮*/
+    button {
+      position: relative;
+      width: 0.5rem;
+      height: 0.5rem;
+      margin-left: 50%;
+      left: -0.25rem;
+      background: orange;
+      border: 0.01rem solid orange;
+    }
+  }
+  /*暂无数据提示框*/
+  .emptyDataInfo {
+    position: relative;
+    width: 97%;
+    margin: 0 auto;  }
+}
+
+/*产品详情页*/
+.detailBox {
+  position: relative;
+  padding: 0.2rem;
+
+  /*标签*/
+  .ant-tag {
+    margin-bottom: 0.1rem;
+  }
+
+  /*产品图片*/
+  .productImg {
+    position: relative;
+    margin: 0 auto 0.3rem auto;
+    width: 4rem;
+    height: 4rem;
+
+    i.backIcon {
+
+      font-size: 0.5rem;
+      position: absolute;
+      left: -1.3rem;
+      z-index: 10;
+    }
+
+    img {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      border: 0;
+      width: auto;
+      height: auto;
+    }
+  }
+
+  /*产品描述*/
+  .productDesc {
+    background: lightgrey;
+    text-wrap: normal;
+    word-wrap: break-word;
+    padding: 0.1rem;
+    margin-bottom: 0.3rem;
+    font-size: 0.25rem;
+  }
+
+  /*价格，数量和按钮容器*/
+  .priceContainer {
+    position: relative;
+    margin-bottom: 0.3rem;
+    /*价格标题*/
+    .priceTitle {
+      font-size: 0.35rem;
+    }
+    /*产品价格*/
+    .price {
+      font-size: 0.35rem;
+      color: red;
+    }
+
+    /*数量输入容器*/
+    .quantityBox {
+      float: right;
+      input {
+        text-align: center;
+      }
+    }
+
+    /*加入购物车按钮*/
+    button {
+      display: block;
+      position: relative;
+      margin-top: 0.2rem;
+      //float: right;
+      right: -4.9rem;
+      width: 2.2rem;
+      padding: 0.1rem;
+      i {
+        font-size: 0.35rem;
+      }
+
+    }
+
+  }
+
+  /*增值服务文字*/
+  p {
+    font-weight: bold;
+    font-size: 0.3rem;
+    margin-bottom: 0rem;
+  }
+
+  /*增值服务标签*/
+  .serverTag {
+    display: block;
+  }
+
+  /*分割线*/
+  .ant-divider {
+    margin: 0.2rem auto;
+  }
+
+}

@@ -1,0 +1,1666 @@
+[
+  {
+    "id": 1,
+    "name": "希捷酷玩系列 2TB SATA3 64M76",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 950,
+    "type": "hdd"
+  },
+  {
+    "id": 2,
+    "name": "华硕GTX723",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 4726,
+    "type": "gpu"
+  },
+  {
+    "id": 3,
+    "name": "希捷酷鱼 500GB SATA3 32M84",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637551/hhd_xj_ST500DM009_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 406,
+    "type": "hdd"
+  },
+  {
+    "id": 4,
+    "name": "希捷酷鱼 500GB SATA3 32M20",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637551/hhd_xj_ST500DM009_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 414,
+    "type": "hdd"
+  },
+  {
+    "id": 5,
+    "name": "华硕GTX1058",
+    "pic": "http://img.pconline.com.cn/images/product/7239/723947/1_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 2639,
+    "type": "gpu"
+  },
+  {
+    "id": 6,
+    "name": "Intel 酷睿i7 6772",
+    "pic": "http://img.pconline.com.cn/images/product/6070/607088/i76800K_45_sn8.jpg",
+    "dec": "核心类型:Broadwell-E 接口类型:LGA2011-3 三级缓存:15M",
+    "price": 3566,
+    "type": "cpu"
+  },
+  {
+    "id": 7,
+    "name": "戴尔SE2487",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 1109,
+    "type": "monitor"
+  },
+  {
+    "id": 8,
+    "name": "华硕GTX741",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 3315,
+    "type": "gpu"
+  },
+  {
+    "id": 9,
+    "name": "华硕 Z170",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel) Z170",
+    "price": 2703,
+    "type": "mainboard"
+  },
+  {
+    "id": 10,
+    "name": "酷冷至尊龙影模组M2 548",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1088,
+    "type": "power"
+  },
+  {
+    "id": 11,
+    "name": "AMD Ryzen 5 2663",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 1706,
+    "type": "cpu"
+  },
+  {
+    "id": 12,
+    "name": "希捷酷玩系列 2TB SATA3 64M77",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1100,
+    "type": "hdd"
+  },
+  {
+    "id": 13,
+    "name": "芝奇ARES DDR3 8G75",
+    "pic": "http://img.pconline.com.cn/images/product/5792/579273/zq_F3-2400C11D-8GSR_01_sn8.jpg",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 819,
+    "type": "memory"
+  },
+  {
+    "id": 14,
+    "name": "戴尔S2737",
+    "pic": "http://img.pconline.com.cn/images/product/6482/648291/Dell2718NX2_sn8.jpg",
+    "dec": "尺寸:27英寸；屏幕比例:16:9；面板类型:IPS；",
+    "price": 3266,
+    "type": "monitor"
+  },
+  {
+    "id": 15,
+    "name": "华硕 H320",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095709/5ac9b0d6Nce01c0a9_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 1397,
+    "type": "mainboard"
+  },
+  {
+    "id": 16,
+    "name": "芝奇ARES DDR3 8G50",
+    "pic": "http://img.pconline.com.cn/images/product/5913/591316/1_sn8.png",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 1281,
+    "type": "memory"
+  },
+  {
+    "id": 17,
+    "name": "酷冷至尊龙影模组M2 551",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1130,
+    "type": "power"
+  },
+  {
+    "id": 18,
+    "name": "戴尔SE2423",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 3071,
+    "type": "monitor"
+  },
+  {
+    "id": 19,
+    "name": "希捷酷玩系列 2TB SATA3 64M84",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 968,
+    "type": "hdd"
+  },
+  {
+    "id": 20,
+    "name": "酷冷至尊GXII561",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 21,
+    "name": "酷冷至尊雷霆444",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 359,
+    "type": "power"
+  },
+  {
+    "id": 22,
+    "name": "酷冷至尊GXII521",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 23,
+    "name": "希捷酷玩系列 2TB SATA3 64M71",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1232,
+    "type": "hdd"
+  },
+  {
+    "id": 24,
+    "name": "华硕 PRIME B338",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095107/B360-z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 1165,
+    "type": "mainboard"
+  },
+  {
+    "id": 25,
+    "name": "Intel 酷睿i5 6553",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 1412,
+    "type": "cpu"
+  },
+  {
+    "id": 26,
+    "name": "华硕GTX730",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 3363,
+    "type": "gpu"
+  },
+  {
+    "id": 27,
+    "name": "酷冷至尊GXII526",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 28,
+    "name": "Intel 酷睿i5 6586",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 3004,
+    "type": "cpu"
+  },
+  {
+    "id": 29,
+    "name": "华硕 H345",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095709/5ac9b0d6Nce01c0a9_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 2460,
+    "type": "mainboard"
+  },
+  {
+    "id": 30,
+    "name": "华硕 Z141",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel) Z170",
+    "price": 1425,
+    "type": "mainboard"
+  },
+  {
+    "id": 31,
+    "name": "芝奇Ripjaws 4 DDR4 8G19",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1487,
+    "type": "memory"
+  },
+  {
+    "id": 32,
+    "name": "酷冷至尊龙影模组M2 576",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1575,
+    "type": "power"
+  },
+  {
+    "id": 33,
+    "name": "Intel 酷睿i5 6586",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 1748,
+    "type": "cpu"
+  },
+  {
+    "id": 34,
+    "name": "酷冷至尊雷霆430",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 359,
+    "type": "power"
+  },
+  {
+    "id": 35,
+    "name": "戴尔S2730",
+    "pic": "http://img.pconline.com.cn/images/product/6482/648291/Dell2718NX2_sn8.jpg",
+    "dec": "尺寸:27英寸；屏幕比例:16:9；面板类型:IPS；",
+    "price": 4555,
+    "type": "monitor"
+  },
+  {
+    "id": 36,
+    "name": "Intel 酷睿i5 6516",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 3795,
+    "type": "cpu"
+  },
+  {
+    "id": 37,
+    "name": "AMD Ryzen 5 2685",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 1690,
+    "type": "cpu"
+  },
+  {
+    "id": 38,
+    "name": "华硕GTX1047",
+    "pic": "http://img.pconline.com.cn/images/product/7239/723947/1_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 4290,
+    "type": "gpu"
+  },
+  {
+    "id": 39,
+    "name": "希捷酷鱼 500GB SATA3 32M71",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637551/hhd_xj_ST500DM009_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 423,
+    "type": "hdd"
+  },
+  {
+    "id": 40,
+    "name": "希捷酷玩系列 2TB SATA3 64M74",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1246,
+    "type": "hdd"
+  },
+  {
+    "id": 41,
+    "name": "华硕 PRIME B332",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095107/B360-z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 3403,
+    "type": "mainboard"
+  },
+  {
+    "id": 42,
+    "name": "酷冷至尊GXII526",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 43,
+    "name": "芝奇ARES DDR3 8G43",
+    "pic": "http://img.pconline.com.cn/images/product/5913/591316/1_sn8.png",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 964,
+    "type": "memory"
+  },
+  {
+    "id": 44,
+    "name": "戴尔S2726",
+    "pic": "http://img.pconline.com.cn/images/product/6482/648291/Dell2718NX2_sn8.jpg",
+    "dec": "尺寸:27英寸；屏幕比例:16:9；面板类型:IPS；",
+    "price": 1736,
+    "type": "monitor"
+  },
+  {
+    "id": 45,
+    "name": "芝奇Ripjaws 4 DDR4 8G38",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1246,
+    "type": "memory"
+  },
+  {
+    "id": 46,
+    "name": "酷冷至尊龙影模组M2 511",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1322,
+    "type": "power"
+  },
+  {
+    "id": 47,
+    "name": "华硕 PRIME B362",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095107/B360-z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 2419,
+    "type": "mainboard"
+  },
+  {
+    "id": 48,
+    "name": "酷冷至尊雷霆447",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 359,
+    "type": "power"
+  },
+  {
+    "id": 49,
+    "name": "酷冷至尊雷霆469",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 359,
+    "type": "power"
+  },
+  {
+    "id": 50,
+    "name": "酷冷至尊雷霆476",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 259,
+    "type": "power"
+  },
+  {
+    "id": 51,
+    "name": "酷冷至尊雷霆481",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 259,
+    "type": "power"
+  },
+  {
+    "id": 52,
+    "name": "希捷酷玩系列 2TB SATA3 64M47",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1045,
+    "type": "hdd"
+  },
+  {
+    "id": 53,
+    "name": "华硕 Z174",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel) Z170",
+    "price": 4580,
+    "type": "mainboard"
+  },
+  {
+    "id": 54,
+    "name": "芝奇ARES DDR3 8G17",
+    "pic": "http://img.pconline.com.cn/images/product/5913/591316/1_sn8.png",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 751,
+    "type": "memory"
+  },
+  {
+    "id": 55,
+    "name": "戴尔S2778",
+    "pic": "http://img.pconline.com.cn/images/product/6482/648291/Dell2718NX2_sn8.jpg",
+    "dec": "尺寸:27英寸；屏幕比例:16:9；面板类型:IPS；",
+    "price": 3801,
+    "type": "monitor"
+  },
+  {
+    "id": 56,
+    "name": "AMD Ryzen 5 2617",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 3218,
+    "type": "cpu"
+  },
+  {
+    "id": 57,
+    "name": "AMD Ryzen 5 2662",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 1633,
+    "type": "cpu"
+  },
+  {
+    "id": 58,
+    "name": "芝奇ARES DDR3 8G50",
+    "pic": "http://img.pconline.com.cn/images/product/5913/591316/1_sn8.png",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 829,
+    "type": "memory"
+  },
+  {
+    "id": 59,
+    "name": "华硕 Z143",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel) Z170",
+    "price": 2165,
+    "type": "mainboard"
+  },
+  {
+    "id": 60,
+    "name": "Intel 酷睿i5 6571",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 1304,
+    "type": "cpu"
+  },
+  {
+    "id": 61,
+    "name": "希捷酷玩系列 2TB SATA3 64M36",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1314,
+    "type": "hdd"
+  },
+  {
+    "id": 62,
+    "name": "芝奇Ripjaws 4 DDR4 8G76",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1228,
+    "type": "memory"
+  },
+  {
+    "id": 63,
+    "name": "Intel 酷睿i7 6784",
+    "pic": "http://img.pconline.com.cn/images/product/6070/607088/i76800K_45_sn8.jpg",
+    "dec": "核心类型:Broadwell-E 接口类型:LGA2011-3 三级缓存:15M",
+    "price": 1900,
+    "type": "cpu"
+  },
+  {
+    "id": 64,
+    "name": "芝奇Ripjaws 4 DDR4 8G24",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1666,
+    "type": "memory"
+  },
+  {
+    "id": 65,
+    "name": "华硕 PRIME B370",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095107/B360-z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 2791,
+    "type": "mainboard"
+  },
+  {
+    "id": 66,
+    "name": "戴尔S2710",
+    "pic": "http://img.pconline.com.cn/images/product/6482/648291/Dell2718NX2_sn8.jpg",
+    "dec": "尺寸:27英寸；屏幕比例:16:9；面板类型:IPS；",
+    "price": 1834,
+    "type": "monitor"
+  },
+  {
+    "id": 67,
+    "name": "华硕GTX782",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 2517,
+    "type": "gpu"
+  },
+  {
+    "id": 68,
+    "name": "AMD Ryzen 5 2655",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 4582,
+    "type": "cpu"
+  },
+  {
+    "id": 69,
+    "name": "希捷酷玩系列 2TB SATA3 64M43",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1333,
+    "type": "hdd"
+  },
+  {
+    "id": 70,
+    "name": "希捷酷玩系列 2TB SATA3 64M70",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 928,
+    "type": "hdd"
+  },
+  {
+    "id": 71,
+    "name": "酷冷至尊雷霆481",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 259,
+    "type": "power"
+  },
+  {
+    "id": 72,
+    "name": "华硕GTX789",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 3207,
+    "type": "gpu"
+  },
+  {
+    "id": 73,
+    "name": "希捷酷玩系列 2TB SATA3 64M29",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1167,
+    "type": "hdd"
+  },
+  {
+    "id": 74,
+    "name": "戴尔SE2448",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 1814,
+    "type": "monitor"
+  },
+  {
+    "id": 75,
+    "name": "芝奇DDR3 4G50",
+    "pic": "http://img.pconline.com.cn/images/product/5345/534521/nc_zhiqi_ddr3_1_sn8.jpg",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 566,
+    "type": "memory"
+  },
+  {
+    "id": 76,
+    "name": "希捷酷玩系列 2TB SATA3 64M42",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 978,
+    "type": "hdd"
+  },
+  {
+    "id": 77,
+    "name": "希捷酷玩系列 2TB SATA3 64M86",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1441,
+    "type": "hdd"
+  },
+  {
+    "id": 78,
+    "name": "华硕GTX1039",
+    "pic": "http://img.pconline.com.cn/images/product/7239/723947/1_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 3075,
+    "type": "gpu"
+  },
+  {
+    "id": 79,
+    "name": "酷冷至尊雷霆426",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 259,
+    "type": "power"
+  },
+  {
+    "id": 80,
+    "name": "希捷酷玩系列 2TB SATA3 64M48",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1242,
+    "type": "hdd"
+  },
+  {
+    "id": 81,
+    "name": "希捷酷玩系列 2TB SATA3 64M68",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1589,
+    "type": "hdd"
+  },
+  {
+    "id": 82,
+    "name": "AMD Ryzen 5 2647",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 2518,
+    "type": "cpu"
+  },
+  {
+    "id": 83,
+    "name": "Intel 酷睿i5 6540",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 2264,
+    "type": "cpu"
+  },
+  {
+    "id": 84,
+    "name": "华硕 Z147",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel) Z170",
+    "price": 2744,
+    "type": "mainboard"
+  },
+  {
+    "id": 85,
+    "name": "AMD Ryzen 5 2653",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 1468,
+    "type": "cpu"
+  },
+  {
+    "id": 86,
+    "name": "Intel 酷睿i5 6533",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 1946,
+    "type": "cpu"
+  },
+  {
+    "id": 87,
+    "name": "酷冷至尊雷霆431",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 259,
+    "type": "power"
+  },
+  {
+    "id": 88,
+    "name": "华硕 PRIME B355",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095107/B360-z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 1613,
+    "type": "mainboard"
+  },
+  {
+    "id": 89,
+    "name": "锐龙AMD Ryzen 7 1860",
+    "pic": "http://img.pconline.com.cn/images/product/6462/646270/R71700X_Z1_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:20M",
+    "price": 3547,
+    "type": "cpu"
+  },
+  {
+    "id": 90,
+    "name": "酷冷至尊龙影模组M2 532",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1429,
+    "type": "power"
+  },
+  {
+    "id": 91,
+    "name": "酷冷至尊雷霆450",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 259,
+    "type": "power"
+  },
+  {
+    "id": 92,
+    "name": "AMD Ryzen 5 2637",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 2335,
+    "type": "cpu"
+  },
+  {
+    "id": 93,
+    "name": "华硕 PRIME B348",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095107/B360-z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 1318,
+    "type": "mainboard"
+  },
+  {
+    "id": 94,
+    "name": "酷冷至尊GXII553",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 95,
+    "name": "华硕 Z115",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel) Z170",
+    "price": 1314,
+    "type": "mainboard"
+  },
+  {
+    "id": 96,
+    "name": "芝奇Ripjaws 4 DDR4 8G65",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1894,
+    "type": "memory"
+  },
+  {
+    "id": 97,
+    "name": "Intel 酷睿i5 6518",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 4212,
+    "type": "cpu"
+  },
+  {
+    "id": 98,
+    "name": "芝奇Ripjaws 4 DDR4 8G87",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1918,
+    "type": "memory"
+  },
+  {
+    "id": 99,
+    "name": "戴尔SE2434",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 4360,
+    "type": "monitor"
+  },
+  {
+    "id": 100,
+    "name": "华硕GTX744",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 4713,
+    "type": "gpu"
+  },
+  {
+    "id": 101,
+    "name": "Intel 酷睿i5 6564",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 1691,
+    "type": "cpu"
+  },
+  {
+    "id": 102,
+    "name": "希捷酷玩系列 2TB SATA3 64M21",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1021,
+    "type": "hdd"
+  },
+  {
+    "id": 103,
+    "name": "华硕 H362",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095709/5ac9b0d6Nce01c0a9_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 1582,
+    "type": "mainboard"
+  },
+  {
+    "id": 104,
+    "name": "Intel 酷睿i7 6786",
+    "pic": "http://img.pconline.com.cn/images/product/6070/607088/i76800K_45_sn8.jpg",
+    "dec": "核心类型:Broadwell-E 接口类型:LGA2011-3 三级缓存:15M",
+    "price": 1294,
+    "type": "cpu"
+  },
+  {
+    "id": 105,
+    "name": "酷冷至尊雷霆487",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 259,
+    "type": "power"
+  },
+  {
+    "id": 106,
+    "name": "酷冷至尊GXII588",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 107,
+    "name": "戴尔S2752",
+    "pic": "http://img.pconline.com.cn/images/product/6482/648291/Dell2718NX2_sn8.jpg",
+    "dec": "尺寸:27英寸；屏幕比例:16:9；面板类型:IPS；",
+    "price": 2366,
+    "type": "monitor"
+  },
+  {
+    "id": 108,
+    "name": "酷冷至尊雷霆479",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 299,
+    "type": "power"
+  },
+  {
+    "id": 109,
+    "name": "锐龙AMD Ryzen 7 1814",
+    "pic": "http://img.pconline.com.cn/images/product/6462/646270/R71700X_Z1_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:20M",
+    "price": 3846,
+    "type": "cpu"
+  },
+  {
+    "id": 110,
+    "name": "酷冷至尊雷霆430",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 299,
+    "type": "power"
+  },
+  {
+    "id": 111,
+    "name": "酷冷至尊龙影模组M2 538",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1264,
+    "type": "power"
+  },
+  {
+    "id": 112,
+    "name": "芝奇DDR3 4G69",
+    "pic": "http://img.pconline.com.cn/images/product/5345/534521/nc_zhiqi_ddr3_1_sn8.jpg",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 698,
+    "type": "memory"
+  },
+  {
+    "id": 113,
+    "name": "酷冷至尊雷霆415",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 299,
+    "type": "power"
+  },
+  {
+    "id": 114,
+    "name": "华硕 Z158",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel) Z170",
+    "price": 3512,
+    "type": "mainboard"
+  },
+  {
+    "id": 115,
+    "name": "Intel 酷睿i5 6541",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 4867,
+    "type": "cpu"
+  },
+  {
+    "id": 116,
+    "name": "芝奇DDR3 4G68",
+    "pic": "http://img.pconline.com.cn/images/product/5345/534521/nc_zhiqi_ddr3_1_sn8.jpg",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 1012,
+    "type": "memory"
+  },
+  {
+    "id": 117,
+    "name": "Intel 酷睿i5 6511",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 2034,
+    "type": "cpu"
+  },
+  {
+    "id": 118,
+    "name": "华硕GTX728",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 3318,
+    "type": "gpu"
+  },
+  {
+    "id": 119,
+    "name": "酷冷至尊GXII565",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 120,
+    "name": "希捷酷鱼 500GB SATA3 32M19",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637551/hhd_xj_ST500DM009_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 391,
+    "type": "hdd"
+  },
+  {
+    "id": 121,
+    "name": "戴尔SE2448",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 4981,
+    "type": "monitor"
+  },
+  {
+    "id": 122,
+    "name": "锐龙AMD Ryzen 7 1888",
+    "pic": "http://img.pconline.com.cn/images/product/6462/646270/R71700X_Z1_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:20M",
+    "price": 1257,
+    "type": "cpu"
+  },
+  {
+    "id": 123,
+    "name": "华硕 Z172",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel) Z170",
+    "price": 2809,
+    "type": "mainboard"
+  },
+  {
+    "id": 124,
+    "name": "锐龙AMD Ryzen 7 1831",
+    "pic": "http://img.pconline.com.cn/images/product/6462/646270/R71700X_Z1_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:20M",
+    "price": 1751,
+    "type": "cpu"
+  },
+  {
+    "id": 125,
+    "name": "酷冷至尊龙影模组M2 517",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1564,
+    "type": "power"
+  },
+  {
+    "id": 126,
+    "name": "华硕GTX740",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 4337,
+    "type": "gpu"
+  },
+  {
+    "id": 127,
+    "name": "酷冷至尊雷霆476",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 299,
+    "type": "power"
+  },
+  {
+    "id": 128,
+    "name": "酷冷至尊GXII570",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 129,
+    "name": "芝奇Ripjaws 4 DDR4 8G10",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1430,
+    "type": "memory"
+  },
+  {
+    "id": 130,
+    "name": "芝奇Ripjaws 4 DDR4 8G66",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1658,
+    "type": "memory"
+  },
+  {
+    "id": 131,
+    "name": "华硕GTX1048",
+    "pic": "http://img.pconline.com.cn/images/product/7239/723947/1_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 4121,
+    "type": "gpu"
+  },
+  {
+    "id": 132,
+    "name": "AMD Ryzen 5 2627",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 4919,
+    "type": "cpu"
+  },
+  {
+    "id": 133,
+    "name": "AMD Ryzen 5 2684",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 1331,
+    "type": "cpu"
+  },
+  {
+    "id": 134,
+    "name": "华硕 PRIME B329",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095107/B360-z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 3067,
+    "type": "mainboard"
+  },
+  {
+    "id": 135,
+    "name": "酷冷至尊龙影模组M2 549",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1097,
+    "type": "power"
+  },
+  {
+    "id": 136,
+    "name": "华硕GTX1044",
+    "pic": "http://img.pconline.com.cn/images/product/7239/723947/1_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 3196,
+    "type": "gpu"
+  },
+  {
+    "id": 137,
+    "name": "华硕 Z177",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel) Z170",
+    "price": 2387,
+    "type": "mainboard"
+  },
+  {
+    "id": 138,
+    "name": "酷冷至尊GXII554",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 139,
+    "name": "Intel 酷睿i7 6765",
+    "pic": "http://img.pconline.com.cn/images/product/6070/607088/i76800K_45_sn8.jpg",
+    "dec": "核心类型:Broadwell-E 接口类型:LGA2011-3 三级缓存:15M",
+    "price": 3626,
+    "type": "cpu"
+  },
+  {
+    "id": 140,
+    "name": "戴尔SE2439",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 4316,
+    "type": "monitor"
+  },
+  {
+    "id": 141,
+    "name": "戴尔SE2448",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 1389,
+    "type": "monitor"
+  },
+  {
+    "id": 142,
+    "name": "希捷酷玩系列 2TB SATA3 64M85",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 914,
+    "type": "hdd"
+  },
+  {
+    "id": 143,
+    "name": "Intel 酷睿i5 6535",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 2590,
+    "type": "cpu"
+  },
+  {
+    "id": 144,
+    "name": "酷冷至尊龙影模组M2 575",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1697,
+    "type": "power"
+  },
+  {
+    "id": 145,
+    "name": "芝奇ARES DDR3 8G71",
+    "pic": "http://img.pconline.com.cn/images/product/5913/591316/1_sn8.png",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 841,
+    "type": "memory"
+  },
+  {
+    "id": 146,
+    "name": "戴尔S2742",
+    "pic": "http://img.pconline.com.cn/images/product/6482/648291/Dell2718NX2_sn8.jpg",
+    "dec": "尺寸:27英寸；屏幕比例:16:9；面板类型:IPS；",
+    "price": 1398,
+    "type": "monitor"
+  },
+  {
+    "id": 147,
+    "name": "戴尔SE2470",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 2558,
+    "type": "monitor"
+  },
+  {
+    "id": 148,
+    "name": "戴尔SE2447",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 2371,
+    "type": "monitor"
+  },
+  {
+    "id": 149,
+    "name": "戴尔S2726",
+    "pic": "http://img.pconline.com.cn/images/product/6482/648291/Dell2718NX2_sn8.jpg",
+    "dec": "尺寸:27英寸；屏幕比例:16:9；面板类型:IPS；",
+    "price": 3175,
+    "type": "monitor"
+  },
+  {
+    "id": 150,
+    "name": "芝奇Ripjaws 4 DDR4 8G34",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1274,
+    "type": "memory"
+  },
+  {
+    "id": 151,
+    "name": "锐龙AMD Ryzen 7 1886",
+    "pic": "http://img.pconline.com.cn/images/product/6462/646270/R71700X_Z1_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:20M",
+    "price": 1198,
+    "type": "cpu"
+  },
+  {
+    "id": 152,
+    "name": "锐龙AMD Ryzen 7 1845",
+    "pic": "http://img.pconline.com.cn/images/product/6462/646270/R71700X_Z1_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:20M",
+    "price": 3631,
+    "type": "cpu"
+  },
+  {
+    "id": 153,
+    "name": "酷冷至尊龙影模组M2 525",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1397,
+    "type": "power"
+  },
+  {
+    "id": 154,
+    "name": "酷冷至尊GXII546",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 155,
+    "name": "Intel 酷睿i7 6751",
+    "pic": "http://img.pconline.com.cn/images/product/6070/607088/i76800K_45_sn8.jpg",
+    "dec": "核心类型:Broadwell-E 接口类型:LGA2011-3 三级缓存:15M",
+    "price": 3492,
+    "type": "cpu"
+  },
+  {
+    "id": 156,
+    "name": "酷冷至尊龙影模组M2 548",
+    "pic": "http://img.pconline.com.cn/images/product/5122/512234/pc_klzz_m2520_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：1050W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 1071,
+    "type": "power"
+  },
+  {
+    "id": 157,
+    "name": "AMD Ryzen 5 2690",
+    "pic": "http://img.pconline.com.cn/images/product/1089/1089436/R51600_Z_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:16M",
+    "price": 1864,
+    "type": "cpu"
+  },
+  {
+    "id": 158,
+    "name": "酷冷至尊雷霆442",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 299,
+    "type": "power"
+  },
+  {
+    "id": 159,
+    "name": "华硕 PRIME B386",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095107/B360-z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 3290,
+    "type": "mainboard"
+  },
+  {
+    "id": 160,
+    "name": "希捷酷玩系列 2TB SATA3 64M70",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 1074,
+    "type": "hdd"
+  },
+  {
+    "id": 161,
+    "name": "芝奇Ripjaws 4 DDR4 8G45",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1779,
+    "type": "memory"
+  },
+  {
+    "id": 162,
+    "name": "华硕 Z181",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel) Z170",
+    "price": 1528,
+    "type": "mainboard"
+  },
+  {
+    "id": 163,
+    "name": "芝奇Ripjaws 4 DDR4 8G86",
+    "pic": "http://img.pconline.com.cn/images/product/6071/607129/Ripjaws-4-Black_sn8.jpg",
+    "dec": "内存类型:DDR IV；内存主频:DDR4 2400",
+    "price": 1179,
+    "type": "memory"
+  },
+  {
+    "id": 164,
+    "name": "酷冷至尊雷霆421",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：450W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 299,
+    "type": "power"
+  },
+  {
+    "id": 165,
+    "name": "希捷酷鱼 500GB SATA3 32M17",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637551/hhd_xj_ST500DM009_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 499,
+    "type": "hdd"
+  },
+  {
+    "id": 166,
+    "name": "Intel 酷睿i5 6551",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Skylake 接口类型:LGA 1151 三级缓存:6M",
+    "price": 3799,
+    "type": "cpu"
+  },
+  {
+    "id": 167,
+    "name": "Intel 酷睿i7 6732",
+    "pic": "http://img.pconline.com.cn/images/product/6070/607088/i76800K_45_sn8.jpg",
+    "dec": "核心类型:Broadwell-E 接口类型:LGA2011-3 三级缓存:15M",
+    "price": 1470,
+    "type": "cpu"
+  },
+  {
+    "id": 168,
+    "name": "希捷酷鱼 500GB SATA3 32M14",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637551/hhd_xj_ST500DM009_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 499,
+    "type": "hdd"
+  },
+  {
+    "id": 169,
+    "name": "华硕 H313",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095709/5ac9b0d6Nce01c0a9_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 4057,
+    "type": "mainboard"
+  },
+  {
+    "id": 170,
+    "name": "酷冷至尊GXII553",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 171,
+    "name": "希捷酷鱼 500GB SATA3 32M82",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637551/hhd_xj_ST500DM009_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 476,
+    "type": "hdd"
+  },
+  {
+    "id": 172,
+    "name": "酷冷至尊GXII525",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 173,
+    "name": "戴尔SE2475",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 4233,
+    "type": "monitor"
+  },
+  {
+    "id": 174,
+    "name": "戴尔S2729",
+    "pic": "http://img.pconline.com.cn/images/product/6482/648291/Dell2718NX2_sn8.jpg",
+    "dec": "尺寸:27英寸；屏幕比例:16:9；面板类型:IPS；",
+    "price": 2679,
+    "type": "monitor"
+  },
+  {
+    "id": 175,
+    "name": "华硕 PRIME B386",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095107/B360-z_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 2317,
+    "type": "mainboard"
+  },
+  {
+    "id": 176,
+    "name": "芝奇DDR3 4G 2300",
+    "pic": "http://img.pconline.com.cn/images/product/5345/534521/nc_zhiqi_ddr3_1_sn8.jpg",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 1890,
+    "type": "memory"
+  },
+  {
+    "id": 177,
+    "name": "希捷酷玩系列 2TB SATA3 64M67",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 869,
+    "type": "hdd"
+  },
+  {
+    "id": 178,
+    "name": "Intel 酷睿i7 6749",
+    "pic": "http://img.pconline.com.cn/images/product/6070/607088/i76800K_45_sn8.jpg",
+    "dec": "核心类型:Broadwell-E 接口类型:LGA2011-3 三级缓存:15M",
+    "price": 2013,
+    "type": "cpu"
+  },
+  {
+    "id": 179,
+    "name": "华硕GTX757",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 3721,
+    "type": "gpu"
+  },
+  {
+    "id": 181,
+    "name": "海盗船Crystal 413",
+    "pic": "http://img.pconline.com.cn/images/product/5756/575614/hdc-Graphitexl-780T-hei_sn8.jpg",
+    "dec": "机箱样式:立式ATX",
+    "price": 355,
+    "type": "case"
+  },
+  {
+    "id": 182,
+    "name": "酷冷至尊GXII549",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 183,
+    "name": "海盗船Air561",
+    "pic": "http://img.pconline.com.cn/images/product/1085/1085839/5a8fb78f60f2e8213.png_e600_sn8.png",
+    "dec": "机箱样式:E-ATX",
+    "price": 600,
+    "type": "case"
+  },
+  {
+    "id": 184,
+    "name": "海盗船Crystal 438",
+    "pic": "http://img.pconline.com.cn/images/product/6114/611453/C400C_Z_sn8.jpg",
+    "dec": "机箱样式:立式ATX",
+    "price": 700,
+    "type": "case"
+  },
+  {
+    "id": 185,
+    "name": "海盗船Crystal 461",
+    "pic": "http://img.pconline.com.cn/images/product/5574/557471/jx_5_sn8.jpg",
+    "dec": "机箱样式:立式ATX",
+    "price": 649,
+    "type": "case"
+  },
+  {
+    "id": 186,
+    "name": "酷冷至尊GXII517",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 599,
+    "type": "power"
+  },
+  {
+    "id": 187,
+    "name": "海盗船Crystal 461",
+    "pic": "http://img.pconline.com.cn/images/product/6096/609658/1_sn8.jpg",
+    "dec": "机箱样式:立式ATX",
+    "price": 474,
+    "type": "case"
+  },
+  {
+    "id": 188,
+    "name": "海盗船Air542",
+    "pic": "http://img.pconline.com.cn/images/product/5672/567206/CORSAIR-Graphite-730T-zzh_sn8.jpg",
+    "dec": "机箱样式:E-ATX",
+    "price": 742,
+    "type": "case"
+  },
+  {
+    "id": 189,
+    "name": "海盗船Crystal 483",
+    "pic": "http://img.pconline.com.cn/images/product/6114/611445/Car_Z_sn8.jpg",
+    "dec": "机箱样式:立式ATX",
+    "price": 399,
+    "type": "case"
+  },
+  {
+    "id": 190,
+    "name": "海盗船Crystal 452",
+    "pic": "http://img.pconline.com.cn/images/product/5672/567207/CORSAIR-Graphite-760T-bjb_sn8.jpg",
+    "dec": "机箱样式:立式ATX",
+    "price": 579,
+    "type": "case"
+  },
+  {
+    "id": 191,
+    "name": "酷冷至尊GXII517",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 549,
+    "type": "power"
+  },
+  {
+    "id": 192,
+    "name": "海盗船Air525",
+    "pic": "http://img.pconline.com.cn/images/upload/upc/tx/pconline_product/1802/24/c8/75866376_1519404153461_sn8.jpg",
+    "dec": "机箱样式:E-ATX",
+    "price": 699,
+    "type": "case"
+  },
+  {
+    "id": 193,
+    "name": "海盗船SPEC-373",
+    "pic": "http://img.pconline.com.cn/images/product/6096/609658/1_sn8.jpg",
+    "dec": "机箱样式:ATX",
+    "price": 445,
+    "type": "case"
+  },
+  {
+    "id": 194,
+    "name": "海盗船SPEC-349",
+    "pic": "http://img.pconline.com.cn/images/product/5691/569114/jx_hdc_zjz_sn8.jpg",
+    "dec": "机箱样式:ATX",
+    "price": 270,
+    "type": "case"
+  },
+  {
+    "id": 195,
+    "name": "海盗船SPEC-312",
+    "pic": "http://img.pconline.com.cn/images/product/5691/569114/jx_hdc_zjz_sn8.jpg",
+    "dec": "机箱样式:ATX",
+    "price": 300,
+    "type": "case"
+  },
+  {
+    "id": 196,
+    "name": "海盗船Air555",
+    "pic": "http://img.pconline.com.cn/images/upload/upc/tx/pconline_product/1802/24/c8/75866376_1519404153461_sn8.jpg",
+    "dec": "机箱样式:E-ATX",
+    "price": 720,
+    "type": "case"
+  },
+  {
+    "id": 197,
+    "name": "戴尔SE2455",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn8.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 2238,
+    "type": "monitor"
+  },
+  {
+    "id": 198,
+    "name": "海盗船SPEC-336",
+    "pic": "http://img.pconline.com.cn/images/product/5691/569114/jx_hdc_zjz_sn8.jpg",
+    "dec": "机箱样式:ATX",
+    "price": 480,
+    "type": "case"
+  },
+  {
+    "id": 199,
+    "name": "酷冷至尊GXII584",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 686,
+    "type": "power"
+  },
+  {
+    "id": 200,
+    "name": "华硕PRIME B350M-E",
+    "pic": "http://img0.pconline.com.cn/pconline/product/nq15/1707/b2_1.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：VIA 视CPU而定 芯片片厂商：VIA",
+    "price": 599,
+    "type": "mainboard"
+  },
+  {
+    "id": 201,
+    "name": "Intel i5 6500",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600837/I56400_Z45_sn8.jpg",
+    "dec": "核心类型:Broadwell-E 接口类型:LGA2011-3 三级缓存:15M",
+    "price": 1399,
+    "type": "cpu"
+  },
+  {
+    "id": 202,
+    "name": "戴尔SE2416HM",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z_sn7.jpg",
+    "dec": "尺寸:23.8英寸 屏幕比例:16:9 面板类型:IPS ",
+    "price": 849,
+    "type": "monitor"
+  },
+  {
+    "id": 203,
+    "name": "酷冷至尊MWE500",
+    "pic": "http://img.pconline.com.cn/images/product/1107/1107544/59704e4fN68089350_sn8.jpg",
+    "dec": "适用类型：台式机电源标准：ATX额定功率：550W CPU供电接口：4+4pin,×2大4Pin接口：5个",
+    "price": 299,
+    "rate": 4
+  },
+  {
+    "id": 204,
+    "name": "华硕GTX750TI-OC-2GD5",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "芯片型号:NVIDIA GeForce",
+    "price": 869,
+    "type": "gpu"
+  },
+  {
+    "id": 205,
+    "name": "芝奇Trident Z RGB幻光戟DDR4 3200",
+    "pic": "http://img.pconline.com.cn/images/product/6446/644611/G3200C_Z_sn8.jpg",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 1099,
+    "type": "memory"
+  },
+  {
+    "id": 206,
+    "name": "海盗船Force MP500 M.2 2280 480G",
+    "pic": "http://img.pconline.com.cn/images/product/6404/640408/MP500X_Z_sn8.jpg",
+    "dec": "缓存容量:128M；",
+    "price": 2600,
+    "type": "hdd"
+  },
+  {
+    "id": 207,
+    "name": "海盗船Carbide SPEC-04",
+    "pic": "http://img.pconline.com.cn/images/product/7213/721331/Spec04_45_sn8.jpg",
+    "dec": "机箱样式:ATX",
+    "price": 449,
+    "type": "case"
+  },
+  {
+    "id": 208,
+    "name": "AMD Ryzen 3 1200",
+    "pic": "http://img.pconline.com.cn/images/product/7321/732162/R3_45_sn7.jpg",
+    "dec": "核心类型:Ryzen 接口类型:LGA2011-3 三级缓存:15M",
+    "price": 729,
+    "type": "cpu"
+  },
+  {
+    "id": 209,
+    "name": "华硕TUF B360M-PLUS GAMING",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095487/5ac1dc2bNf0092642_sn8.jpg",
+    "dec": "集成显卡核心：视CPU而定 芯片组或北桥芯片：Intel 视CPU而定 芯片片厂商：英特尔(Intel)",
+    "price": 799,
+    "type": "mainboard"
+  }
+]

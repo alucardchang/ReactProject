@@ -1,0 +1,82 @@
+[
+  {
+    "id": 200,
+    "title": "华硕PRIME B350M-E",
+    "pic": "http://img0.pconline.com.cn/pconline/product/nq15/1707/b2_1.jpg",
+    "dec": "夏季冰爽价 支持AMD锐龙R7/R5处理器",
+    "price": 599,
+    "rate":5
+  },
+  {
+    "id": 201,
+    "title": "Intel i5 6500",
+    "pic": "http://img.pconline.com.cn/images/product/6008/600834/i565001_Z.jpg",
+    "dec": "满足日常办公和娱乐的首先",
+    "price": 1399,
+    "rate":5
+  },
+  {
+    "id": 202,
+    "title": "戴尔SE2416HM",
+    "pic": "http://img.pconline.com.cn/images/product/6285/628510/SE2416HM_Z.jpg",
+    "dec": "高分辨率低延迟 游戏必备利器",
+    "price": 849,
+    "rate":5
+  },
+  {
+    "id": 203,
+    "title": "酷冷至尊MWE500",
+    "pic": "http://img.pconline.com.cn/images/product/1107/1107544/59704e4fN68089350_sn8.jpg",
+    "dec": "这个夏天还在担心电源散热问题吗",
+    "price": 299,
+    "rate":4
+  },
+  {
+    "id": 204,
+    "title": "华硕GTX750TI-OC-2GD5",
+    "pic": "http://img.pconline.com.cn/images/product/5621/562119/4295160_img_0964_thumb_sn8.jpg",
+    "dec": "4K游戏最高性价比的选择",
+    "price": 869,
+    "rate":4
+  },
+  {
+    "id": 205,
+    "title": "芝奇Trident Z RGB幻光戟DDR4 3200",
+    "pic": "http://img.pconline.com.cn/images/product/6446/644611/G3200C_Z_sn8.jpg",
+    "dec": "魔幻内存 让你的游戏世界更精彩",
+    "price": 1499,
+    "rate":4
+  },
+  {
+    "id": 206,
+    "title": "海盗船Force MP500 M.2 2280 480G",
+    "pic": "http://img.pconline.com.cn/images/product/6404/640408/MP500X_Z_sn8.jpg",
+    "dec": "持续高速读写 秒进系统",
+    "price": 2600,
+    "rate":4
+  },
+  {
+    "id": 207,
+    "title": "海盗船Carbide SPEC-04",
+    "pic": "http://img.pconline.com.cn/images/product/7213/721331/Spec04_45_sn8.jpg",
+    "dec": "中塔静音防尘 全新散热设计",
+    "price": 449,
+    "rate":4
+  },
+  {
+    "id": 208,
+    "title": "AMD Ryzen 3 1200",
+    "pic": "http://img.pconline.com.cn/images/product/7321/732162/R3_45.jpg",
+    "dec": "适合入门级用户 附赠Wraith Stealth散热器",
+    "price": 729,
+    "rate":4
+  },
+  {
+    "id": 209,
+    "title": "华硕TUF B360M-PLUS GAMING",
+    "pic": "http://img.pconline.com.cn/images/product/1095/1095487/5ac1dc2bNf0092642_sn8.jpg",
+    "dec": "学生党最佳的选择 暑期特价进行中",
+    "price": 799,
+    "rate":4
+  }
+]

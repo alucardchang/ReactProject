@@ -1,0 +1,233 @@
+.cartListContainer {
+  position: relative;
+
+  /*购物车列表*/
+  //待付款列表
+  .unpayCartList {
+    position: relative;
+    width: 97%;
+    margin: 0.2rem auto 0rem auto;
+
+
+    /*全选复选框*/
+    .selAllBox{
+
+    }
+
+    /*商品复选框*/
+    .chkBox{
+      position: absolute;
+      left:0;
+      top:40%;
+    }
+
+    li {
+      position: relative;
+      border-bottom: 1px solid gainsboro;
+      padding: 0.2rem 0rem 0.1rem 0rem;
+      .itemContainer {
+        //display: flex;
+
+        /*商品图片*/
+        .pic {
+          display: inline-block;
+          width: 2.2rem;
+          height: 1.4rem;
+          //background: #EEE;
+          float: left;
+          margin-left:0.3rem;
+          img {
+            width: 90%;
+            height: 100%;
+          }
+        }
+        /*标题和描述*/
+        .desc {
+          margin-top: 0.1rem;
+
+          overflow: hidden;
+          p:first-child {
+            width: 70%;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+
+            font-size: 0.27rem;
+            color: black;
+            height: .27rem;
+            line-height: .27rem;
+            overflow: hidden;
+            margin-bottom: 0.1rem;
+          }
+          p:last-child {
+            width: 65%;
+            color: #999;
+            font-size: 0.2rem;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            margin-bottom: 0.15rem;
+          }
+        }
+        /*价格*/
+        .priceQuan {
+          position: relative;
+          margin-top: 0.05rem;
+          display: block;
+          color: red;
+          font-size: 0.29rem;
+          /*数量*/
+          .quantityBox {
+            float: right;
+            font-size: 0.28rem;
+            color: #999;
+            //width:1.2rem;
+            position: relative;
+            right: 0rem;
+            /*标签*/
+            .ant-tag {
+              margin-left: 0.1rem;
+              width: 0.66rem;
+            }
+          }
+        }
+      }
+
+      /*删除按钮*/
+      .delButton {
+        position: absolute;
+        right: 0.1rem;
+        bottom: 50%;
+        background: red;
+        border: none;
+        span {
+          color: white;
+          //background:red;
+        }
+      }
+
+    }
+  }
+  .emptyInfo {
+    position: relative;
+    top: 0.1rem;
+    margin: 0 auto;
+    width: 97%;
+
+    .emptyPic {
+      position: relative;
+      //width: 97%;
+      margin: 50% auto 0 auto;
+      top: -1.5rem;
+      display: block;
+      width: 3rem;
+      height: 3rem;
+      background: url("../images/emptycart.jpg") no-repeat;
+      background-size: 100% 100%;
+    }
+  }
+  .payButton{
+    margin-top: .2rem;
+    position:absolute;
+    right:0.2rem;
+    background:orange;
+    border:orange;
+  }
+
+  //已付款列表
+  .paidCartList {
+    position: relative;
+    width: 97%;
+    margin: 0.2rem auto 0rem auto;
+
+    li {
+      position: relative;
+      border-bottom: 1px solid gainsboro;
+      padding: 0.2rem 0rem 0.1rem 0rem;
+      .itemContainer {
+        //display: flex;
+
+        /*商品图片*/
+        .pic {
+          display: inline-block;
+          width: 2.2rem;
+          height: 1.4rem;
+          background: #EEE;
+          float: left;
+          img {
+            width: 100%;
+            height: 100%;
+          }
+        }
+        /*标题和描述*/
+        .desc {
+          margin-top: 0.1rem;
+
+          overflow: hidden;
+          p:first-child {
+            width: 70%;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+
+            font-size: 0.27rem;
+            color: black;
+            height: .27rem;
+            line-height: .27rem;
+            overflow: hidden;
+            margin-bottom: 0.1rem;
+          }
+          p:last-child {
+            width: 65%;
+            color: #999;
+            font-size: 0.2rem;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            margin-bottom: 0.15rem;
+          }
+        }
+        /*价格*/
+        .priceQuan {
+          position: relative;
+          margin-top: 0.05rem;
+          display: block;
+          color: red;
+          font-size: 0.29rem;
+          /*数量*/
+          .quantityBox {
+            float: right;
+            font-size: 0.28rem;
+            color: #999;
+            //width:1.2rem;
+            position: relative;
+            right: 0rem;
+            /*标签*/
+            .ant-tag {
+              margin-left: 0.1rem;
+              width: 0.66rem;
+            }
+          }
+        }
+
+      }
+
+    }
+  }
+
+  //没有购买提示
+  .paidInfo {
+    position: relative;
+    top: 0.1rem;
+    margin: 0 auto;
+    width: 97%;
+  }
+
+  //未登录提示
+  .loginInfo {
+    position: relative;
+    top: 0.1rem;
+    width: 97%;
+    margin: 0 auto;
+  }
+
+}
+

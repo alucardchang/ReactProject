@@ -1,0 +1,163 @@
+/*Ant Design Stylesheet*/
+@import '~antd/dist/antd.css';
+
+/*REM*/
+html {
+  font-size: 100px; /*750:1REM=100PX*/
+}
+
+#root {
+  margin: 0 auto;
+  max-width: 750px;
+}
+
+.ant-message{
+  margin-top:0.8rem;
+}
+
+
+
+@fontColor: #000000;
+/*Nav-Top*/
+.headerNavBox {
+  position: fixed;
+  top:0;
+  left:0;
+  z-index: 9999;
+  width: 100%;
+  height: 1.1rem;
+  line-height: 1.1rem;
+  //background: silver;
+  //background: linear-gradient(top, #8fa1ff, #3757fa);
+  background: linear-gradient(top, white, silver);
+  color: @fontColor;
+
+  .homeBox {
+    height: 100%;
+
+    /*Logo和商品分类区域*/
+    .baseBox {
+      position: relative;
+      height: 100%;
+
+      .logo {
+        position: absolute;
+        left: .16rem;
+        top: 50%;
+        margin-top: -.31rem;
+        width: 2.6rem;
+        height: .62rem;
+        font-size: 0;
+        background: url("../images/mylogo.png") no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .icon {
+        position: absolute;
+        right: .25rem;
+        top: 50%;
+        margin-top: -.31rem;
+
+      }
+
+    }
+
+    /*商品分类菜单*/
+    .filterBox {
+      position: absolute;
+      top: 1.11rem;
+      left: 0;
+      width: 100%;
+      //background: rgba(70, 70, 70, 0.5);
+      background: rgba(220, 220, 220, 0.9);
+      overflow: hidden;
+
+      li {
+        float: left;
+        width: 2.5rem;
+        height: 2.5rem;
+        border: 0.005rem solid silver;
+        background-size: 45px 45px !important;
+        color: black;
+
+        span {
+          display: inline-block;
+          margin-left: 10px;
+        }
+      }
+
+      #all {
+        background: url('../images/all.png') no-repeat 50% 60%;
+      }
+      #cpu {
+        background: url('../images/cpu.png') no-repeat 50% 60%;
+      }
+      #board {
+        background: url('../images/motherboard.png') no-repeat 50% 60%;
+      }
+      #memory {
+        background: url('../images/memory.png') no-repeat 50% 60%;
+      }
+      #hdd {
+        background: url('../images/hdd.png') no-repeat 50% 60%;
+      }
+      #graph {
+        background: url('../images/graph.png') no-repeat 50% 60%;
+      }
+      #case {
+        background: url('../images/case.png') no-repeat 50% 60%;
+      }
+      #power {
+        background: url('../images/power.png') no-repeat 50% 60%;
+      }
+      #monitor {
+        background: url('../images/monitor.png') no-repeat 50% 60%;
+      }
+
+    }
+
+  }
+}
+
+/*Nav-Bottom*/
+.footerNavBox {
+  position: fixed;
+  background: linear-gradient(top, white, lightgrey);
+  left: 0;
+  bottom: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 1.05rem;
+  line-height: 1.05rem;
+  border-top: .02rem solid #D5D5D5;
+
+  display: flex;
+  a {
+    color: @fontColor;
+    flex: 1;
+    text-align: center;
+
+    i {
+      display: block;
+      margin-top: .1rem;
+      font-size: .45rem;
+    }
+
+    span {
+      display: block;
+      height: .5rem;
+      line-height: .5rem;
+      font-size: .2rem;
+    }
+
+    &.active {
+      color: orange;
+    }
+  }
+
+}
+
+/*Container*/
+.container{
+  padding:1.1rem 0 1.05rem 0;
+}

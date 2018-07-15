@@ -1,0 +1,74 @@
+[
+  {
+    "id": 11,
+    "name": "海盗船Crystal 477",
+    "pic": "http://img.pconline.com.cn/images/product/6380/638030/Crystal570X_Z45_sn8.jpg",
+    "dec": "机箱样式:立式ATX",
+    "price": 1657,
+    "type": "case"
+  },
+  {
+    "id": 12,
+    "name": "酷冷至尊GXII568",
+    "pic": "http://img.pconline.com.cn/images/product/5515/551581/GX500_1_sn8.jpg",
+    "dec": "机箱样式:ATX",
+    "price": 3836,
+    "type": "power"
+  },
+  {
+    "id": 13,
+    "name": "锐龙AMD Ryzen 7 1823",
+    "pic": "http://img.pconline.com.cn/images/product/6462/646270/R71700X_Z1_sn8.jpg",
+    "dec": "接口类型:AM4(1331) 三级缓存:20M",
+    "price": 2760,
+    "type": "cpu"
+  },
+  {
+    "id": 14,
+    "name": "华硕 Z189",
+    "pic": "http://img.pconline.com.cn/images/product/5983/598300/Z170-P_Z_sn8.jpg",
+    "dec": "芯片厂商:英特尔(Intel) Z170",
+    "price": 1941,
+    "type": "mainboard"
+  },
+  {
+    "id": 15,
+    "name": "海盗船Crystal 448",
+    "pic": "http://img.pconline.com.cn/images/product/6313/631338/Crystal460XRGB_Z45_sn8.jpg",
+    "dec": "机箱样式:立式ATX",
+    "price": 2812,
+    "type": "case"
+  },
+  {
+    "id": 16,
+    "name": "酷冷至尊雷霆425",
+    "pic": "http://img.pconline.com.cn/images/product/4988/498836/dy_klzz_lt420_1_sn8.jpg",
+    "dec": "机箱样式:ATX",
+    "price": 2347,
+    "type": "power"
+  },
+  {
+    "id": 17,
+    "name": "芝奇ARES DDRY 8G77",
+    "pic": "http://img.pconline.com.cn/images/product/5072/507240/nc_zq_arestz_1_sn8.jpg",
+    "dec": "内存类型:DDR III；内存主频:DDR3 1600",
+    "price": 3854,
+    "type": "memory"
+  },
+  {
+    "id": 18,
+    "name": "海盗船SPEC-380",
+    "pic": "http://img.pconline.com.cn/images/product/5691/569114/jx_hdc_zjz_sn8.jpg",
+    "dec": "机箱样式:ATX",
+    "price": 3810,
+    "type": "case"
+  },
+  {
+    "id": 19,
+    "name": "希捷酷玩系列 2TB SATA3 64M39",
+    "pic": "http://img.pconline.com.cn/images/product/6375/637534/hhd_xj_ST2000DX002_sn8.jpg",
+    "dec": "转速:7200rpm；缓存容量:64M；盘体尺寸:3.5寸",
+    "price": 2139,
+    "type": "hdd"
+  }
+]
