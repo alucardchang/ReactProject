@@ -1,5 +1,4 @@
 # Hello,欢迎
-## CoolFun PC Hardware Mall
 ----------说明----------
 
 server文件夹(后台相关文件)
